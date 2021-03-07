@@ -1,1 +1,3 @@
 This file is strictly for commenting on any part of the code in Program.cs. This is also notes for me on possibly improving my code if at all(more than likely).
+
+Lines 97-106 was where I left off. My brain couldn't think much afterwards. Was working on something...
