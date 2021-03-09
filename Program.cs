@@ -197,8 +197,9 @@ namespace MethodTraining
                     }
                 }
                 while (loop == true);
-                return;
             }
+            editFile.Close();
+            return;
         }
         static void Main(string[] args)
         {
